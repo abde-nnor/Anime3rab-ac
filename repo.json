@@ -4,7 +4,7 @@
     "manifestVersion": 1,
     "pluginLists": [
         {
-            "url": "https://github.com/abde-nnor/Anime3rab-ac",
+            "url": "https://raw.githubusercontent.com/abde-nnor/Anime3rab-ac/main/build/Anime3rbProvider.zip",
             "version": 1
         }
     ]
