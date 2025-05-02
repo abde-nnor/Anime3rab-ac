@@ -1,0 +1,11 @@
+{
+    "name": "Anime3rb Repository",
+    "description": "إكستنشن لموقع Anime3rb لعرض الأنمي باللغة العربية",
+    "manifestVersion": 1,
+    "pluginLists": [
+        {
+            "url": "https://github.com/abde-nnor/Anime3rab-ac",
+            "version": 1
+        }
+    ]
+}
